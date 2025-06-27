@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "7fea6896c7703285",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebe3d4df4338b594",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51d614f039939dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d57b6942ca40575",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "12e425b38e9a1a56",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "f0f705e9aa2bb633",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "aa9b30fb64afe95c",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "e0abefe20b3d0cbd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f9a5ad001d70dbba",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a74ea0924daea51f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "3726395fdf163e42",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "d590ba8a9c13df94",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c51d614f039939dc",
+  "lastOpenFiles": [
+    "产业信息/小米YU7.md",
+    "产业信息/固态电池.md",
+    "产业信息/创新药.md",
+    "上市公司/亿航智能.md",
+    "战法/看盘.md",
+    "上市公司/振邦智能.md",
+    "上市公司/热景生物（688068）.md",
+    "上市公司/百济神州（688235）.md",
+    "上市公司/凯众股份.md",
+    "上市公司/恒瑞医药（600276）.md",
+    "上市公司/泽璟制药（688266）.md",
+    "上市公司/赣锋锂业.md",
+    "产业信息/AI Agent.md",
+    "产业信息/小型核反应堆.md",
+    "产业信息/小米YU7发布.md",
+    "赣锋锂业.md",
+    "名词解释/AI Agent.md",
+    "产业信息/AI Agent商业化进程.md",
+    "名词解释/核级蝶阀、球阀.md"
+  ]
+}

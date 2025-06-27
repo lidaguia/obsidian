@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "67b342e825ad88ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "589e1bb8e5d2e4ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f28cde23ea1ad4e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "战法/看盘.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "看盘"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e386a4a67ad15542",
+    "type": "split",
+    "children": [
+      {
+        "id": "2212b36544c9ada4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de8874f7f950f8f9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b1e483522a5bb1f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "524d269a8ebad3a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5ef6fbcc92cc5e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4e2aecdea8bf25f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ee04050760b3c85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "b1325b6581168fca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "e1257324b0886f91",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "29c41709694ca219",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f28cde23ea1ad4e9",
+  "lastOpenFiles": [
+    "战法/看盘.md",
+    "上市公司/德尔股份.md",
+    "上市公司/百济神州（688235）.md",
+    "产业信息/创新药.md",
+    "股票",
+    "上市公司/泽璟制药（688266）.md",
+    "泽璟制药.md",
+    "上市公司/热景生物（688068）.md",
+    "上市公司/恒瑞医药（600276）.md",
+    "产业信息/固态电池.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "产业信息/AI Agent.md",
+    "名词解释/AI Agent.md",
+    "产业信息/小型核反应堆.md",
+    "产业信息/小米YU7.md",
+    "上市公司/振邦智能.md",
+    "上市公司/凯众股份.md",
+    "上市公司/宁德时代.md",
+    "上市公司/赣锋锂业.md"
+  ]
+}
