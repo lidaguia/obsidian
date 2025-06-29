@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "589e1bb8e5d2e4ce",
+        "id": "159d7ecdea5a55c0",
         "type": "tabs",
         "children": [
           {
-            "id": "f28cde23ea1ad4e9",
+            "id": "1ad11ea6ddb1c4c5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "战法/看盘.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "看盘"
+              "title": "新标签页"
             }
           }
         ]
@@ -140,53 +136,70 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "daily-notes:打开/创建今天的日记": false,
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "f28cde23ea1ad4e9",
+  "active": "de8874f7f950f8f9",
   "lastOpenFiles": [
+    "README.md",
+    "战法/主力“一日游”战法.md",
     "战法/看盘.md",
-    "上市公司/德尔股份.md",
-    "上市公司/百济神州（688235）.md",
-    "产业信息/创新药.md",
-    "股票",
-    "上市公司/泽璟制药（688266）.md",
-    "泽璟制药.md",
-    "上市公司/热景生物（688068）.md",
-    "上市公司/恒瑞医药（600276）.md",
-    "产业信息/固态电池.md",
-    "未命名 1.canvas",
-    "未命名.canvas",
-    "产业信息/AI Agent.md",
+    "战法",
+    "名词解释/锂金属负极.md",
+    "名词解释/超高镍.md",
+    "名词解释/硫化物电解质.md",
+    "名词解释/硅碳负极.md",
+    "名词解释/氧化物电解质.md",
+    "名词解释/核级蝶阀、球阀.md",
+    "名词解释/机器人.md",
+    "名词解释/智能驾驶.md",
+    "名词解释/新能源汽车.md",
+    "名词解释/干法设备.md",
+    "名词解释/干法电极设备.md",
+    "名词解释/富锂锰基.md",
+    "名词解释/大连时代碳谷.md",
+    "名词解释/半固态电池.md",
+    "名词解释/全固态电池.md",
+    "名词解释/储能.md",
+    "名词解释/低空经济.md",
     "名词解释/AI Agent.md",
-    "产业信息/小型核反应堆.md",
+    "名词解释",
     "产业信息/小米YU7.md",
-    "上市公司/振邦智能.md",
-    "上市公司/凯众股份.md",
-    "上市公司/宁德时代.md",
-    "上市公司/赣锋锂业.md"
+    "产业信息/小型核反应堆.md",
+    "产业信息/固态电池.md",
+    "产业信息/创新药.md",
+    "产业信息/AI Agent.md",
+    "产业信息",
+    "上市公司",
+    "模板",
+    "未命名.canvas",
+    "合作关系.canvas",
+    "白板",
+    "股票",
+    "未命名 1.canvas"
   ]
 }
